@@ -10,6 +10,7 @@ body {
 	font-family: Arial, Verdana, sans-serif;
 	color: #000;
 	margin:0;
+	 max-width: 1440px;
 }
 
 h1 {
